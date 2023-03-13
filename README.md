@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepakmahaseth6" target="blank"><img src="https://img.shields.io/twitter/follow/deepakmahaseth6?logo=twitter&style=for-the-badge" alt="deepakmahaseth6" /></a> </p>
 
-- 🔭 I’m currently studying[https://masaischool.com/](www.masaischool.com)
+- 🔭 I’m currently studying [www.masaischool.com](https://masaischool.com/)
 
 - 🌱 I’m currently learning **java and spring boot**
 
