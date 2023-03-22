@@ -14,15 +14,15 @@
 
 - 📫 How to reach me **deepakkumarmahaseth5@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFcC4ZZaPQ/SPWcTOgmM8F-Rbn4umw0hQ/view?utm_content=DAFcC4ZZaPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [[Resume](https://www.canva.com/design/DAFcC4ZZaPQ/SPWcTOgmM8F-Rbn4umw0hQ/view?utm_content=DAFcC4ZZaPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAFcC4ZZaPQ/SPWcTOgmM8F-Rbn4umw0hQ/view?utm_content=DAFcC4ZZaPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/deepakkumarmahaseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/deepakkumarmahaseth" height="30" width="40" /></a>
+<a href="https://codepen.io/deepakkumarmahaseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/deepakkumarmahaseth" height="30" width="40" /></a>
 <a href="https://twitter.com/deepakmahaseth6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakmahaseth6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/deepak-mahaseth-b8b233185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/deepak-mahaseth-b8b233185/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lakshya.kumar.102361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lakshya.kumar.102361/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/i.am.deepak.mahaseth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i.am.deepak.mahaseth/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-mahaseth-b8b233185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/deepak-mahaseth-b8b233185/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lakshya.kumar.102361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lakshya.kumar.102361/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i.am.deepak.mahaseth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i.am.deepak.mahaseth/" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumarmahaseth&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumarmahaseth" /> </p>
 
