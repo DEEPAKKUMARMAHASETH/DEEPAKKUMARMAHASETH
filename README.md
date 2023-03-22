@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **deepakkumarmahaseth5@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFcC4ZZaPQ/SPWcTOgmM8F-Rbn4umw0hQ/view?utm_content=DAFcC4ZZaPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15Z5nDnRHtH6he8mWEm0msvGuqz3Tuobn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
