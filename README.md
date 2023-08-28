@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/deepakmahaseth6" target="blank"><img src="https://img.shields.io/twitter/follow/deepakmahaseth6?logo=twitter&style=for-the-badge" alt="deepakmahaseth6" /></a> </p>
 
+<img align="right" alt="coding" width="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU" />
+
 - 🔭 I’m currently studying [www.masaischool.com](https://masaischool.com/)
 - 🔭 Reach me [Portfolio](https://deepakkumarmahaseth.github.io/)
 
@@ -15,6 +17,7 @@
 - 📫 How to reach me **deepakkumarmahaseth5@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15Z5nDnRHtH6he8mWEm0msvGuqz3Tuobn/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
