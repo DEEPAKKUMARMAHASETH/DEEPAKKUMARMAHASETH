@@ -1,3 +1,5 @@
+![Black Minimal Business Personal Profile Linkedin Banner (1)](https://github.com/masai-course/deepak_mahaseth_fw23_0344/assets/71522419/ce8796c0-de25-43d4-aef1-045f1a760b40)
+
 <h1 align="center">Hi 👋, I'm DEEPAK MAHASETH</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPER</h3>
 
