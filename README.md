@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU" />
 
 - 🔭 I’m currently studying [www.masaischool.com](https://masaischool.com/)
-- 🔭 Reach me [Portfolio](https://deepakkumarmahaseth.github.io/)
+- 🔭 Reach me [Portfolio](https://deepakkumarmahaseth.github.io)
 
 - 🌱 I’m currently learning **java and spring boot**
 
